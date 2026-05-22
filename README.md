@@ -14,11 +14,11 @@ Public repositories on this organisation account host reference implementations,
 
 - **Optimisation** — combinatorial optimisation, metaheuristics (tabu search, tabu thresholding, surrogate constraints), constraint handling.
 - **Applied ML** — explainable financial sentiment with transformer language models, anomaly detection for market data, time-series forecasting.
-- **Environmental forecasting** — sea-ice condition modelling with Bayesian neural networks; satellite remote sensing on AWS.
+
 
 ## Background
 
-Peer-reviewed work in adaptive metaheuristics, published in *Annals of Operations Research* and in the Springer *Meta-Heuristics* volume. ESA / UK Space Agency research funding for explainable anomaly detection in financial markets. Academic partnerships with Oxford, UCL, and Cambridge.
+Peer-reviewed work in adaptive metaheuristics, published in *Annals of Operations Research* and in the Springer *Meta-Heuristics* volume.
 
 ## Contact
 
